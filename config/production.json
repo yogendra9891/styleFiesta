@@ -1,0 +1,10 @@
+{
+
+    "magento": {
+        "host":"localhost",
+        "port": 80,
+        "path": "/stylefiesta/index.php/api/xmlrpc/",
+        "login": "Stylefiesta",
+        "pass": "123456",
+    }
+}
